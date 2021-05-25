@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/giraffenow.iml" filepath="$PROJECT_DIR$/.idea/giraffenow.iml" />
+      <module fileurl="file://S:/programs/guessing_gamev1/.idea/guessing_gamev1.iml" filepath="S:/programs/guessing_gamev1/.idea/guessing_gamev1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../madlibs/.idea/madlibs.iml" filepath="$PROJECT_DIR$/../madlibs/.idea/madlibs.iml" />
+      <module fileurl="file://C:/python/.idea/python.iml" filepath="C:/python/.idea/python.iml" />
+    </modules>
+  </component>
+</project>
